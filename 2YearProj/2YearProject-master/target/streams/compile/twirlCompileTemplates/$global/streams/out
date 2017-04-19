@@ -1,0 +1,4 @@
+[error] C:\Users\jayso\Downloads\2YearProj\2YearProject-master\app\views\registration.scala.html:34: Expected ')' but found 'EOF'
+[error] }
+[error]  ^
+[error] (compile:twirlCompileTemplates) Twirl compilation failed
